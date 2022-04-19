@@ -15,15 +15,8 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Анонсы", 
+		"Расписание мероприятий", 
 		"/ex1/partneram/raspisanie-meropriyatiy/", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
-		"Архив", 
-		"/ex1/partneram/raspisanie-meropriyatiy/arkhiv.php", 
 		Array(), 
 		Array(), 
 		"" 
