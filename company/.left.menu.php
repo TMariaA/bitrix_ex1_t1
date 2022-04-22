@@ -34,6 +34,13 @@ $aMenuLinks = Array(
 		Array(), 
 		Array(), 
 		"" 
+	),
+	Array(
+		"Обратная связь", 
+		"/ex1/company/obratnaya-svyaz.php", 
+		Array(), 
+		Array(), 
+		"" 
 	)
 );
 ?>
