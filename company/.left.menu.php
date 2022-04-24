@@ -2,7 +2,7 @@
 $aMenuLinks = Array(
 	Array(
 		"О компании", 
-		"./", 
+		"/ex1/company/index.php", 
 		Array(), 
 		Array("DESCRIPTION"=>"этотекстдляпункта"), 
 		"" 
